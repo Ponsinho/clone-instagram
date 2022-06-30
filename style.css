@@ -68,12 +68,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
     overflow: hidden;
 }
 
 .profile-photo img {
     height: 6rem;
+    width: 6rem;
+    border-radius: 100%;
 }
 
 .instagram-login {
